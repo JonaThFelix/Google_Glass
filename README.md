@@ -10,7 +10,9 @@ Podem consultar o projeto inicial em _interface.
 Obs.: Devido ao tamanho e espaço, os arquivos filme e filme1 (arquivos de vídeo .mp4) não foram adicionados a esse projeto no GitHub,
 de qualquer forma, o link usado no HTML é genuíno, ficando pendente apenas o arquivo no caminho local da pasta.
 
-Obs2.: O Site possúi alguns arquivos de vídeo "mp4" e um de áudio "mp3", possivelmente devido ao tamanho dos arquivos no servidor do Github, as pastas estarão vazias.
+Obs2.: O Site possúi alguns arquivos de vídeo e áudio, espere um pouco a página carregar para poder visualiza-los.
+
+🔥 Confira o projeto em: 👉🏽 https://jonathfelix.github.io/Google_Glass/
 
 ![Captura de tela 2023-05-29 220706](https://github.com/JonaThFelix/Google_Glass/assets/123984244/16095308-5a7a-4fb6-9d57-ee6e1ce4b2bb)
 ![Captura de tela 2023-05-29 220714](https://github.com/JonaThFelix/Google_Glass/assets/123984244/b9e16c5f-6649-4eef-b900-3d7bcc793bc0)
