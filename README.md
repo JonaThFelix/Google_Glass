@@ -5,7 +5,7 @@ Inicialmente foi meu primeiro contato com o mundo da programação, em 2018, ond
 foi estudado, projetado e desenvolvido um site para o Google Glass.
 
 Modificações foram feitas em 2023 e o projeto ficou com as minhas observações e definições pessoais.
-Podem consultar o projeto inicial em _interface.
+Podem consultar o projeto inicial em <i>interface</i>.
 
 Obs.: Devido ao tamanho e espaço, os arquivos filme e filme1 (arquivos de vídeo .mp4) não foram adicionados a esse projeto no GitHub,
 de qualquer forma, o link usado no HTML é genuíno, ficando pendente apenas o arquivo no caminho local da pasta.
